@@ -5,3 +5,4 @@ resources:
 - service.yaml
 images:
 - name: jdseoregi.azurecr.io/jdseo2572/edu1
+  newTag: "master"
